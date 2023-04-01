@@ -1,0 +1,172 @@
+body{
+ background-image: url("img/tlo.png");
+}
+#baner{
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    background-color: rgb(126, 122, 122);
+}
+#left{
+    
+    height: 666px;
+    width: 20%;
+    float: left;
+    background-image: url("img/bombel2.jpg");
+}
+#footer{
+    clear: both;
+    width: 100%;
+    height: 120px;
+    text-align: center;
+    background-color: rgb(126, 122, 122);
+}
+#b1{
+    float: left;
+    height: 100%;
+    width: 15%;
+}
+#b2{
+    font-size: 30px;
+    text-align: center;
+    color:white;
+    float: left;
+    height: 100%;
+    width: 85%;
+}
+#b21{
+    float: left;
+    font-size: 30px;
+    text-align: center;
+    color:white;
+    float: left;
+    height: 100%;
+    width: 13%;
+ 
+}
+#b22{
+    float: left;
+    font-size: 40px;
+    text-align: center;
+    color:white;
+    float: left;
+    height: 100%;
+    width: 57%;
+ 
+}
+#b23{
+    float: left;
+
+    font-size: 30px;
+    text-align: center;
+    color:white;
+    float: left;
+    height: 100%;
+    width: 30%;
+ 
+}
+#center{
+    border: 15px;
+    font-size: 32px;
+    height: 666px;
+    width: 60%;
+    float: left;
+    background-color: rgb(150, 143, 143);
+
+}
+#add{
+    background-image: url("img/gavron.jpg");
+    height: 666px;
+    width: 20%;
+    float: left;
+
+}
+#f1{
+    float: left;
+    font-size: medium;
+    color: white;
+    text-align: center;
+    width: 20%;
+    height: 10%;
+}
+#f2{
+    float: left;
+
+    font-size: medium;
+    color: white;
+    text-align: center;
+    width: 20%;
+    height: 10%;
+}
+#f3{
+    float: left;
+
+    font-size: medium;
+    color: white;
+    text-align: center;
+    width: 20%;
+    height: 10%;
+}
+#f4{
+    float: left;
+
+    font-size: medium;
+    color: white;
+    text-align: center;
+    width: 20%;
+    height: 10%;
+}
+#f5{
+    float: left;
+
+    font-size: medium;
+    color: white;
+    text-align: center;
+    width: 20%;
+    height: 10%;
+}
+#c1{
+    width: 100%;
+    height: 15%;
+    text-align: center;
+    color: white;
+    font-size: 45px;
+    
+}
+#c2{
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    color: white;
+    font-size: 65px;
+    
+}
+#c3{
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    
+}
+#center2{
+    text-align: center;
+    border: 15px;
+    font-size: 32px;
+    height: 666px;
+    width: 60%;
+    float: left;
+    background-color: rgb(150, 143, 143);
+
+}
+#center3{
+    text-align: center;
+    border: 15px;
+    font-size: 32px;
+    height: 666px;
+    width: 60%;
+    float: left;
+    background-color: rgb(150, 143, 143);
+
+
+}
